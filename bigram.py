@@ -37,8 +37,8 @@ def compaire (source1,source2):
 
 def main():
 
-	text1 = u""" :-) """
-	text2 = u""" :-( """
+	text1 = u"""Разум дан человеку для того, чтобы он разумно жил, а не для того только, чтобы он понимал, что он неразумно живет """
+	text2 = u"""Разум дан человеку для того чтобы разумно жил"""
 
 	cmp1 = genshingle(canonize(text1))
 	cmp2 = genshingle(canonize(text2))
