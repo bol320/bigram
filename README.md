@@ -1,0 +1,2 @@
+# bigram
+test bugram algoritm
